@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://fycy.site/2021/09/12/GitHub-Hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2021-09-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fycy.site/2021/09/12/%E6%88%91%E6%9D%A5%E4%BA%86/</loc>
+    
+    <lastmod>2021-09-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fycy.site/tags/index.html</loc>
+    
+    <lastmod>2021-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fycy.site/project/index.html</loc>
+    
+    <lastmod>2021-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fycy.site/series/index.html</loc>
+    
+    <lastmod>2021-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fycy.site/about/index.html</loc>
+    
+    <lastmod>2021-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fycy.site/2021/09/09/hello-world/</loc>
+    
+    <lastmod>2021-09-08</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://fycy.site/</loc>
+    <lastmod>2021-09-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://fycy.site/tags/hexo-%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2021-09-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+</urlset>
