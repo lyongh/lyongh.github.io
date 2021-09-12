@@ -23,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://fycy.site/project/index.html</loc>
+    <loc>https://fycy.site/series/index.html</loc>
     
     <lastmod>2021-09-10</lastmod>
     
   </url>
   
   <url>
-    <loc>https://fycy.site/series/index.html</loc>
+    <loc>https://fycy.site/project/index.html</loc>
     
     <lastmod>2021-09-10</lastmod>
     
@@ -60,7 +60,14 @@
 
   
   <url>
-    <loc>https://fycy.site/tags/hexo-%E6%90%AD%E5%BB%BA/</loc>
+    <loc>https://fycy.site/tags/hexo/</loc>
+    <lastmod>2021-09-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fycy.site/tags/%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2021-09-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

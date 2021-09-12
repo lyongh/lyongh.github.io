@@ -10,7 +10,7 @@
   
   <title>
     
-      Tags | 奔跑的兔子
+      奔跑的兔子
     
   </title>
   <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -193,55 +193,45 @@
 </header>
 
     <div id="article-banner">
-  <h2>Tags</h2>
-  <p class="post-date">Tag Retrieval</p>
+  <h2>Archives</h2>
+  <p class="post-date">Archives</p>
 </div>
-<main class="app-body">
-  <div id="tag-cloud">
+<main class="app-body" id="archives">
+  
+  
+  
+    <section class="time-section">
+  <h1 class="section-year">
+    2021
+  </h1>
+  <div class="section-list">
     
-      <a class="tag2" data-name="tag-hexo">hexo</a>
     
-      <a class="tag2" data-name="tag-搭建">搭建</a>
+      <div class="section-list-item">
+        <a href="/2021/09/12/GitHub-Hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B/" class="archive-title">GitHub-Hexo-搭建个人网站详细教程</a>
+        <p class="archive-date">09-12</p>
+      </div>
+    
+      <div class="section-list-item">
+        <a href="/2021/09/12/%E6%88%91%E6%9D%A5%E4%BA%86/" class="archive-title">我来了</a>
+        <p class="archive-date">09-12</p>
+      </div>
+    
+      <div class="section-list-item">
+        <a href="/2021/09/09/hello-world/" class="archive-title">Hello World</a>
+        <p class="archive-date">09-09</p>
+      </div>
     
   </div>
+</section>
   
-    <div class="tag-list">
-      <h3 class="tag-name" id="tag-hexo">hexo</h3>
-      
-        <ul class="tag-preview">
-          <li>
-            <a href="/2021/09/12/GitHub-Hexo-搭建个人网站详细教程/">GitHub-Hexo-搭建个人网站详细教程</a>
-          </li>
-        </ul>
-        
-    </div>
-    
-    <div class="tag-list">
-      <h3 class="tag-name" id="tag-搭建">搭建</h3>
-      
-        <ul class="tag-preview">
-          <li>
-            <a href="/2021/09/12/GitHub-Hexo-搭建个人网站详细教程/">GitHub-Hexo-搭建个人网站详细教程</a>
-          </li>
-        </ul>
-        
-    </div>
-    
 </main>
 
 <script>
   (function () {
-    var url = 'https://fycy.site/tags/index.html'
-    $('#article-banner').geopattern(url)
-    $('.header').removeClass('fixed-header')
-
-    var tag = location.hash.replace('#', '')
-    if (tag) {
-      var tagId = "#tag-" + tag;
-      $("html, body").animate({
-        scrollTop: $(tagId).offset().top 
-      }, 400)
-    }
+    var url = 'https://fycy.site/tags/搭建/index.html';
+    $('#article-banner').geopattern(url);
+    $('.header').removeClass('fixed-header');
   })();
 </script>
     <div class="scroll-top">
